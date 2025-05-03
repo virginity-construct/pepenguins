@@ -1,3 +1,3 @@
 # Pepenguins Staking UI
 
-Staking dashboard for Pepenguins NFTs and $SPENGU token.
+This is the minimal UI for the Pepenguins staking dashboard built using Next.js and TailwindCSS.
